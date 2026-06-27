@@ -24,26 +24,6 @@
 
 ---
 
-### 🔭 Featured Projects
-
-**[Solar Output Forecasting & Economic Viability Dashboard](https://github.com/shivakumar1031/solar)**
-Web app forecasting solar energy output using XGBoost regression, paired with a full cost/NPV/LCOE financial model. Flask backend, Bootstrap frontend.
-
-**Online Examination System with Face Recognition**
-Secure exam platform with PHP–MySQL backend and DeepFace-based facial identity verification to prevent impersonation.
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shivakumar1031&theme=flat&no-frame=true&row=1&column=6" alt="shivakumar1031" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="left">
@@ -58,15 +38,6 @@ Secure exam platform with PHP–MySQL backend and DeepFace-based facial identity
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivakumar1031&show_icons=true&theme=default" alt="shivakumar1031" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivakumar1031" alt="shivakumar1031" width="48%"/>
 </p>
 
 ---
